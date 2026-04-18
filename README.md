@@ -1,1 +1,1 @@
-![My Skills](https://skillicons.dev/icons?i=cs,docker,arch,neovim,kali,postgres,loginom)
+![My Skills](https://skillicons.dev/icons?i=docker,arch,neovim,kali)
