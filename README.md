@@ -1,1 +1,1 @@
-![My Skills](https://skillicons.dev/icons?i=docker,arch,neovim,kali)
+![My Skills](https://skillicons.dev/icons?i=arch,linux,docker,k8s,neovim)
