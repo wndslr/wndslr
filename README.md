@@ -1,1 +1,1 @@
-![My Skills](https://skillicons.dev/icons?i=linux,arch,nixos,docker,k8s,neovim,obsidian,gitlab,go,postgres,grafana,prometheus.redis,zedd)
+![My Skills](https://skillicons.dev/icons?i=linux,arch,nix,docker,k8s,ansible,neovim,obsidian,gitlab,go,postgres,grafana,prometheus,redis)
